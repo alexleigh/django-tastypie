@@ -22,6 +22,7 @@ setup(
         'tastypie.management.commands',
         'tastypie.migrations',
         'tastypie.contrib',
+        'tastypie.contrib.contenttypes',
         'tastypie.contrib.gis',
     ],
     package_data={
